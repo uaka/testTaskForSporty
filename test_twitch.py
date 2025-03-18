@@ -21,7 +21,10 @@ def setup_browser():
     chrome_options.add_experimental_option("mobileEmulation", {"deviceName": "Pixel 4"})
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
+
     yield driver
+
+    driver.quit()
 
 
 def test_twitch_search(setup_browser, request):

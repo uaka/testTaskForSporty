@@ -13,11 +13,11 @@ This project automates Twitch mobile testing using Selenium and pytest. It searc
 
 📂 Project Structure
 
-📦 testTaskSporty
- ┣ 📜 test_twitch.py      # Selenium test script
- ┣ 📜 requirements.txt     # List of dependencies
- ┣ 📜 README.md           # Project documentation
- ┣ 📜 twitch_test_screenshot.png     # PNG showing test execution
+* 📦 testTaskSporty
+*  ┣ 📜 test_twitch.py      # Selenium test script
+*  ┣ 📜 requirements.txt     # List of dependencies
+*  ┣ 📜 README.md           # Project documentation
+*  ┣ 📜 twitch_test_screenshot.png     # PNG showing test execution
 
 ⚙️ Setup & Installation
 
