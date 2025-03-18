@@ -119,7 +119,8 @@ Test execution logs are saved in **`test_log.log`**, which records:
 ## 📸 **GIF – Test Execution**
 ![Test Run](assets/test_run.gif)  
 _(This GIF shows the test running locally, verifying UI interactions on Twitch.)_
-![img.png](img.png)
+!
+![test_run.gif](test_run.gif)
 ---
 
 ### 🎯 **Happy Testing! 🚀**  
